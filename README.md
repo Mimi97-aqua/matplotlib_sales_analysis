@@ -6,7 +6,7 @@ You are a Data Analyst working for a video game company. You have been given a d
 
 ### Project Setup
 To successfully run this project, you are required to have Python3 and UV installed.
-- Clone this repository then `cd sales_analysis/`
+- Clone this repository then `cd matplotlib_sales_analysis/`
 - Run `uv sync`
 
 ### Data Story and Recommendation
